@@ -21,7 +21,7 @@ public Result index()
 {
     return ok(views.html.index.render());
 }
-public LegacyWebSocket<String> charSocket()
+public LegacyWebSocket<String> chatSocket()
 {
     return WebSocket.withActor(MessageActor::props);
 }

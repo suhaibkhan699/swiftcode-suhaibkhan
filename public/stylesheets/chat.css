@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Cookie|Pangolin');
 #message-pane {
     background: url(http://orig04.deviantart.net/6e3d/f/2016/060/9/4/the_division___shd_1080p_by_wes2299-d9tief1.jpg);
     background-repeat: no-repeat;
@@ -10,9 +13,16 @@
     max-width: 75%;
     border-radius: 10px;
     padding: 10px;
-    font-size: 14px;
+    font-size: 18px;
+    font-family: 'Pangolin', cursive;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 153);
     }
+#form-card
+{
+margin:0;
 
+background-color:#ffffff;
+}
 .message-time
 {
 margin-top:4px;

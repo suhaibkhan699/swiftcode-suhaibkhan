@@ -20,12 +20,11 @@
 #form-card
 {
 margin:0;
-
-background-color:#ffffff;
+;
 }
 .message-time
 {
 margin-top:4px;
-color:#ffffff;
+color:black;
 font-size:10px;
 }

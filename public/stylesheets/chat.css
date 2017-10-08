@@ -1,6 +1,21 @@
 #message-pane {
-    background: url(https://getmyuni.azureedge.net/college-all-images/b-n-m-institute-of-technology-bnmit-bangalore/bnmit-images/2.jpg);
+    background: url(http://orig04.deviantart.net/6e3d/f/2016/060/9/4/the_division___shd_1080p_by_wes2299-d9tief1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+    .message-card
+    {
+    max-width: 75%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+    }
+
+.message-time
+{
+margin-top:4px;
+color:#ffffff;
+font-size:10px;
 }
